@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/hanakayylene/tt-logic-gate-project
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26d
+  slot: tt_um_wokwi_476391671272853505
+  project: Logic Gate Project
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: 9c75fbef1383adae175dcca085474233752a1f2f
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26d/tt_um_wokwi_476391671272853505
+  branch: tapeout/tinytapeout/ttgf26d/tt_um_wokwi_476391671272853505
+  page: https://app.tinytapeout.com/shuttles/ttgf26d
+generated: '2026-10-17T23:45:19Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26d/tt_um_wokwi_476391671272853505
+- upstream/main
